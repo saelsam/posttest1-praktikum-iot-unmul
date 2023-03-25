@@ -1,7 +1,7 @@
 # Anggota kelompok : 
-Muhamad Gusti Keyandi Ervan (2009106003)
-Sael Samuel Rude' (2009106034)
-Fathan Ghoji Adzikra (2009106044)
+- Muhamad Gusti Keyandi Ervan (2009106003)
+- Sael Samuel Rude' (2009106034)
+- Fathan Ghoji Adzikra (2009106044)
 
 # Judul : 
 Rangkaian untuk Mengatur Kecerahan Lampu LED dan Frekuensi Nada Buzzer
